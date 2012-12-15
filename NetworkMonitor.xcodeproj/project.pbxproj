@@ -24,14 +24,12 @@
 		9E5B5FD4167CE90E002A4A3B /* Icon-Small.png in Resources */ = {isa = PBXBuildFile; fileRef = 9E5B5FCD167CE90E002A4A3B /* Icon-Small.png */; };
 		9E5B5FD5167CE90E002A4A3B /* Icon-Small@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9E5B5FCE167CE90E002A4A3B /* Icon-Small@2x.png */; };
 		9E5B5FD6167CE90E002A4A3B /* Icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 9E5B5FCF167CE90E002A4A3B /* Icon.png */; };
-		9E5B5FD7167CE90E002A4A3B /* Icon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9E5B5FD0167CE90E002A4A3B /* Icon@2x.png */; };
 		9E5B5FD8167CE90E002A4A3B /* iTunesArtwork in Resources */ = {isa = PBXBuildFile; fileRef = 9E5B5FD1167CE90E002A4A3B /* iTunesArtwork */; };
 		9E5B5FDE167CE93A002A4A3B /* Airport.png in Resources */ = {isa = PBXBuildFile; fileRef = 9E5B5FD9167CE93A002A4A3B /* Airport.png */; };
-		9E5B5FDF167CE93A002A4A3B /* icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 9E5B5FDA167CE93A002A4A3B /* icon.png */; };
 		9E5B5FE0167CE93A002A4A3B /* Network.png in Resources */ = {isa = PBXBuildFile; fileRef = 9E5B5FDB167CE93A002A4A3B /* Network.png */; };
 		9E5B5FE1167CE93A002A4A3B /* stop-32.png in Resources */ = {isa = PBXBuildFile; fileRef = 9E5B5FDC167CE93A002A4A3B /* stop-32.png */; };
 		9E5B5FE2167CE93A002A4A3B /* WWAN5.png in Resources */ = {isa = PBXBuildFile; fileRef = 9E5B5FDD167CE93A002A4A3B /* WWAN5.png */; };
-		9E5B5FE6167CEA74002A4A3B /* Reachability.m in Sources */ = {isa = PBXBuildFile; fileRef = 9E5B5FE5167CEA74002A4A3B /* Reachability.m */; };
+		9E5B5FE6167CEA74002A4A3B /* Reachability.m in Sources */ = {isa = PBXBuildFile; fileRef = 9E5B5FE5167CEA74002A4A3B /* Reachability.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -238,10 +236,8 @@
 				9E5B5FD4167CE90E002A4A3B /* Icon-Small.png in Resources */,
 				9E5B5FD5167CE90E002A4A3B /* Icon-Small@2x.png in Resources */,
 				9E5B5FD6167CE90E002A4A3B /* Icon.png in Resources */,
-				9E5B5FD7167CE90E002A4A3B /* Icon@2x.png in Resources */,
 				9E5B5FD8167CE90E002A4A3B /* iTunesArtwork in Resources */,
 				9E5B5FDE167CE93A002A4A3B /* Airport.png in Resources */,
-				9E5B5FDF167CE93A002A4A3B /* icon.png in Resources */,
 				9E5B5FE0167CE93A002A4A3B /* Network.png in Resources */,
 				9E5B5FE1167CE93A002A4A3B /* stop-32.png in Resources */,
 				9E5B5FE2167CE93A002A4A3B /* WWAN5.png in Resources */,
